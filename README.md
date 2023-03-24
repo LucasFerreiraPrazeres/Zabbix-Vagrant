@@ -1,2 +1,9 @@
 # Zabbix-Vagrant
-Intalaçao do Zabbix por meio do Vagrant.file
+Configurando serviços no vagrantfile para rodar o Zabbix Server.
+VM BOX: Debian 11 bullseye
+
+**Serviços:**
+- Apache2
+- Mariadb
+- PHP
+- Zabbix-Server e Zabbix-Agent
