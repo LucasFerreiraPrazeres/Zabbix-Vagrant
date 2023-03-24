@@ -1,8 +1,8 @@
 # Zabbix-Vagrant
-Configurando serviços no vagrantfile para rodar o Zabbix Server.
+Configurando Zabbix-Server no vagrantfile.
 VM BOX: Debian 11 bullseye
 
-**Serviços:**
+**Serviços instalados e configurados:**
 - Apache2
 - Mariadb
 - PHP
